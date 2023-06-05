@@ -20,3 +20,5 @@ farol: defini a cor e criei os dois circulos posicionados em frente ao carro
 retrovisor: defini a cor e criei os dois retangulos posicionados do lado do carro
 
 simbolo da fabricante: adicionei a imagem com o local dela e posicionei no meio do carro como se fosse a fabricante
+
+img src = "img/image.png"
