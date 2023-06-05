@@ -21,4 +21,4 @@ retrovisor: defini a cor e criei os dois retangulos posicionados do lado do carr
 
 simbolo da fabricante: adicionei a imagem com o local dela e posicionei no meio do carro como se fosse a fabricante
 
-img src = "img/image.png"
+<img src = "img/image.png"/>
